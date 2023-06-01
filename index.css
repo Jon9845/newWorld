@@ -1,6 +1,6 @@
 h1 {
+  text-align: center;
   color: black;
-  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   font-size: 40px;
 }
@@ -20,4 +20,7 @@ h5 {
 }
 h6 {
   font-size: 20px;
+}
+img {
+  width: 200px;
 }
